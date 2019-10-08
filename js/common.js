@@ -1,0 +1,2 @@
+var gPathData;
+var gMenuData=[];
